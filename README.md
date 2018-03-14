@@ -1,1 +1,1 @@
-https://github.com/JSMaOm/salah-work.git
+https://jsmaom.github.io/salah-work/
